@@ -4,5 +4,5 @@
 [Answer](https://github.com/venkatakrishna4/DSA/blob/main/src/main/java/com/krish/dsa/basicmath/CountDigits.java)
 
 ### Reverse a Number
-[Question](https://leetcode.com/problems/reverse-integer/description/)
+[Question](https://leetcode.com/problems/reverse-integer/description/) and
 [Answer](https://github.com/venkatakrishna4/DSA/blob/main/src/main/java/com/krish/dsa/basicmath/ReverseInteger.java)
